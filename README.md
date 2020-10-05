@@ -1,2 +1,2 @@
-# Ola_Mundo
- Primeiro Repositorio Versionado
+# Olá, Mundo!
+ Primeiro repositorio criado no Git
